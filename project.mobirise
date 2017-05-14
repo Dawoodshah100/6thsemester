@@ -939,7 +939,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel North Pk</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reservation.html\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>RESERVATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>TRIP&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hotel.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOTELS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reservation.html\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>RESERVATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>TRIP&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hotel.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOTELS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1925,7 +1925,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel North Pk</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reservation.html\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>RESERVATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>TRIP&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hotel.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOTELS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reservation.html\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>RESERVATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>TRIP&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hotel.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOTELS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2195,7 +2195,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -2227,7 +2227,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "We believe in your confort",
+          "title": "We believe in your comfort",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
