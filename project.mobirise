@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Travel Noth Pk",
-    "currentPage": "hotel.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2195,7 +2195,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-subtitle": {
               "color": "#ffffff"
@@ -2227,7 +2227,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "We believe in your comfort",
+          "title": "We believe in your confort",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
@@ -2237,8 +2237,8 @@
           "_name": "image2",
           "_anchor": "image2-3a",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#7c706b",
             "showText": false
           },
@@ -2248,13 +2248,74 @@
               "width": 1400
             },
             "video": {
-              "src": "file:///C:/Users/Hissam Baig/Desktop/TRAVELNORTHPK.rar",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "autoplay": false,
               "loop": false,
               "active": true
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-38",
+          "_params": {
+            "imageSize": "68",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-2000x1367.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=eaSdTJAYl6s&ab_channel=WallStreetJournal",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "video-play",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "We provide unique &nbsp;services in luxurious hotels nn",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "social-buttons1",
