@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Travel Noth Pk",
-    "currentPage": "hotel.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.8.8",
-    "uniqCompNum": 119,
+    "uniqCompNum": 143,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -2569,6 +2569,685 @@
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Islamabad G9 Markaz pakistan",
+              "placeId": "",
+              "state": "loading"
+            }
+          },
+          "text1": "<strong>Address</strong><br>G9 Markaz, nIslamabad.<br><br><br>\n<strong>Contacts</strong><br>\nEmail: hissam.baig321@gmail.com<br>\nPhone: +(92)33453888945<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"home.html#gallery3-18\">Vehicals</a></li><li><a href=\"home.html#gallery4-20\">Trourist Points</a></li><li><a href=\"aboutus.html\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(46, 46, 46);\">About Us</a></li><br></ul>"
+        }
+      ]
+    },
+    "Index.html": {
+      "settings": {
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3f",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/monogram-143x128-20.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Travel North Pk</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"reservation.html\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\"></span>RESERVATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>TRIP&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"hotel.html\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>HOTELS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutus.html\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"station.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#c1c1c1",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3g",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert-2000x1367.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Welcome T0<br>Travel North &nbsp;pk &nbsp;",
+          "caption": "<p><b>connect with North Travels and enjoy comfortable vehicle services o<span style=\"font-size: 1.07rem; line-height: 1.5;\">ur small group style of travel means you’ll stay under the radar, travel the local way, eat the local way and sleep the local way. You’ll get as close to real life as possible (without actually moving in). You’ll have the unsurpassed knowledge of a local leader, taking you out of the guidebooks and into a world you’re waiting to discover</span></b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "HOTELS",
+          "meta": "<b>We got luxurious, beautiful, and peaceful hotel for you</b>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "LAHORE",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ISLAMABAD",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "LAHORE",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "LAHORE",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "KARACHI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "RAWALPINDI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "GILGIT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "QUETA",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotels-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hotels-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-3i",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#28324e",
+            "showMeta": true
+          },
+          "title": "<p><a href=\"home.html#gallery3-18\">Vehicals</a><a href=\"home.html#gallery4-20\"></a></p>",
+          "meta": "<b>Travel north pk got the more comfortable and luxurious &nbsp;for you</b>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "GLI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1124-72-2000x1124-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1124-72.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "XLI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1125-69-2000x1125-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1125-69.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "JEEP",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1123-66-2000x1123-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1123-66.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "COROLLA",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c-phone-horizontal-2000x908-53-2000x908-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c-phone-horizontal-2000x908-53.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "GLI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/toyota-corolla-gli-2016-model-new-picture-609x420-2000x1379-52-2000x1379-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/toyota-corolla-gli-2016-model-new-picture-609x420-2000x1379-52.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "HIGHROOF",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1250-25-2000x1250-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1250-25.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "XLI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1332-59-2000x1332-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1332-59.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "XLI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c-phone-2000x1250-27-2000x1250-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c-phone-2000x1250-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "#28324e",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-3k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "<a href=\"home.html#gallery4-20\">Tourist Points</a>",
+          "meta": "<b>Pakistan is reach with the natural beauties you can visit with north travel pk</b>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "right",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "images": [
+              {
+                "tags": "DEOSEI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/553e1f1483955-2000x1200-79-2000x1200-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/553e1f1483955-2000x1200-79.jpg",
+                "caption": "DEOSAI, $100 FOR 3 DAYS TRIP",
+                "active": false
+              },
+              {
+                "tags": "ATTABBAD LAKE",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/attabad-lake-full-hd-boat-2000x1333-23-2000x1333-72.jpg",
+                "image": "@PROJECT_PATH@/assets/images/attabad-lake-full-hd-boat-2000x1333-23.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "SHANGRILA",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125-25-2000x1125-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125-25.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "FORTS",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/altit-fort-at-the-bank-of-hunza-river-hunza-2000x1312-90-2000x1312-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/altit-fort-at-the-bank-of-hunza-river-hunza-2000x1312-90.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "DEOSEI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/brown-bear-at-deosai-national-park-2000x1187-11-2000x1187-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/brown-bear-at-deosai-national-park-2000x1187-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "PAK_CHINA BORDER",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/khunjerab-pass-monument-2000x1333-77-2000x1333-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/khunjerab-pass-monument-2000x1333-77.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "FORTS",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/baltit-fort-gilgit-4-2000x1333-99-2000x1333-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/baltit-fort-gilgit-4-2000x1333-99.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "DEOSEI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/477adfee87a640fc719bd0ab85aa110f-2000x1178-98-2000x1178-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/477adfee87a640fc719bd0ab85aa110f-2000x1178-98.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "DEOSEI",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deosai-river-2000x1160-0-2000x1160-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deosai-river-2000x1160-0.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ATTABBAD LAKE",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/attaabad-lake-907x550-2000x1212-32-2000x1212-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/attaabad-lake-907x550-2000x1212-32.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ATTABBAD LAKE",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/134581560-14411987699681n-2000x1253-10-2000x1253-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/134581560-14411987699681n-2000x1253-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "SHANGRILA",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/download-2000x1587-86-2000x1587-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/download-2000x1587-86.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "SHANGRILA",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/download-1-2000x1330-65-2000x1330-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/download-1-2000x1330-65.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "PAK_CHINA BORDER",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/472007-gbgovtphotofile-1354049267-840-640x480-2000x1381-86-2000x1381-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/472007-gbgovtphotofile-1354049267-840-640x480-2000x1381-86.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "PAK_CHINA BORDER",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14816205146-9292a7d5c8-k-2000x1333-91-2000x1333-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14816205146-9292a7d5c8-k-2000x1333-91.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "FORTS",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/khaplu-palace-1-2000x1500-74-2000x1500-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/khaplu-palace-1-2000x1500-74.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-3m",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-3n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3o",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
